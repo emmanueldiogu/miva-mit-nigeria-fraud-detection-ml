@@ -1,13 +1,13 @@
-# Nigeria Fraud Detection ML
+# MIVA MIT Seminar - Nigeria Fraud Detection ML
 
-A GitHub-ready seminar project for **data-driven fraud detection in digital banking in Nigeria**.
+A seminar project for **data-driven fraud detection in digital banking in Nigeria**.
 
 This repository is structured so you can:
 - work locally in **VS Code**,
 - run experiments in a notebook,
 - keep reusable code inside `src/`,
 - run tests with `pytest`, and
-- later attach results to your seminar paper.
+- see result.
 
 ## Project structure
 
@@ -76,5 +76,5 @@ pytest -q
 
 ## Notes
 
-- The dataset source is the Nigerian Financial Transactions and Fraud Detection Dataset on Hugging Face, which is described as a Nigeria-specific fraud dataset with millions of synthetic transactions and engineered fraud-related features (huggingface)[https://huggingface.co/datasets/electricsheepafrica/Nigerian-Financial-Transactions-and-Fraud-Detection-Dataset].
-- You can also use the Kaggle NIBSS-style synthetic dataset as an alternative source (kaggle)[https://www.kaggle.com/datasets/hendurhance/nibsss-fraud-dataset/code].
+- The dataset source is the Nigerian Financial Transactions and Fraud Detection Dataset on Hugging Face, which is described as a Nigeria-specific fraud dataset with millions of synthetic transactions and engineered fraud-related features [huggingface](https://huggingface.co/datasets/electricsheepafrica/Nigerian-Financial-Transactions-and-Fraud-Detection-Dataset).
+- You can also use the Kaggle NIBSS-style synthetic dataset as an alternative source [kaggle](https://www.kaggle.com/datasets/hendurhance/nibsss-fraud-dataset/code).
